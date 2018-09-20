@@ -20,6 +20,31 @@ And you can use it wise
 npm i the-mathematician
 ```
 
+### Usage
+
+Set an event
+
+```
+setEvent('event');
+```
+
+Get the last event of your list
+
+```
+getLastEvent();
+```
+Get all of your list of events in string format;
+
+```
+getFullEventAsString();
+```
+
+Get all your of list of events in array format;
+
+```
+getFullEventAsArray();
+```
+
 ## Deployment
 
 Only deploy your code if you are sure that your code is correct and you are using the_mathematician
