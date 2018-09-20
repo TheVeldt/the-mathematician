@@ -1,0 +1,19 @@
+{
+  "name": "the-mathematician",
+  "version": "1.0.0",
+  "description": "this is math package for solving equations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheVeldt/the-mathematician.git"
+  },
+  "author": "João Pedro Andrade Marques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheVeldt/the-mathematician/issues"
+  },
+  "homepage": "https://github.com/TheVeldt/the-mathematician#readme"
+}
